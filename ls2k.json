@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "63976d3b3a596d924d500172"
+    },
+    "MaMH": "SP003",
+    "TenMH": "Nước nắm",
+    "DonVi": "DVT03",
+    "GiaBan": 15000,
+    "SoLuong": 133
+  },
+  {
+    "_id": {
+      "$oid": "63976d3b3a596d924d500173"
+    },
+    "MaMH": "SP004",
+    "TenMH": "Mì tôm",
+    "DonVi": "DVT01",
+    "GiaBan": 15000,
+    "SoLuong": 82
+  },
+  {
+    "_id": {
+      "$oid": "63976d3b3a596d924d500178"
+    },
+    "MaMH": "SP009",
+    "TenMH": "Dầu gội",
+    "DonVi": "DVT06",
+    "GiaBan": 12000,
+    "SoLuong": 389
+  },
+  {
+    "_id": {
+      "$oid": "63976d3b3a596d924d500179"
+    },
+    "MaMH": "SP010",
+    "TenMH": "Trà sữa",
+    "DonVi": "DVT03",
+    "GiaBan": 3000,
+    "SoLuong": 297
+  },
+  {
+    "_id": {
+      "$oid": "63976d3b3a596d924d50017a"
+    },
+    "MaMH": "SP011",
+    "TenMH": "Sting",
+    "DonVi": "DVT03",
+    "GiaBan": 10000,
+    "SoLuong": 68
+  }
+]
