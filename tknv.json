@@ -1,8 +1,5 @@
 [
   {
-    "_id": {
-      "$oid": "63976d503a596d924d50017e"
-    },
     "MaNV": "AD",
     "TenHienThi": "Văn Tân",
     "Quyen": "Quản Lý",
@@ -10,9 +7,6 @@
     "MatKhau": "123"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d50017f"
-    },
     "MaNV": "NV01",
     "TenHienThi": "Văn Trí",
     "Quyen": "Thủ Kho",
@@ -20,9 +14,6 @@
     "MatKhau": "123"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500180"
-    },
     "MaNV": "NV02",
     "TenHienThi": "Công Chí",
     "Quyen": "Bán Hàng",
@@ -30,9 +21,6 @@
     "MatKhau": "123"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500181"
-    },
     "MaNV": "NV03",
     "TenHienThi": "Trương Như",
     "Quyen": "Bán Hàng",
@@ -40,9 +28,6 @@
     "MatKhau": "123"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500182"
-    },
     "MaNV": "NV04",
     "TenHienThi": "Hoàng Hải",
     "Quyen": "Bán Hàng",
@@ -50,9 +35,6 @@
     "MatKhau": "123"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500183"
-    },
     "MaNV": "NV05",
     "TenHienThi": "Hoài Thương",
     "Quyen": "Bán Hàng",
@@ -60,9 +42,6 @@
     "MatKhau": "123"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500184"
-    },
     "MaNV": "NV06",
     "TenHienThi": "Tường Vy",
     "Quyen": "Thủ Kho",
