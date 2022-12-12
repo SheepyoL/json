@@ -1,8 +1,5 @@
 [
   {
-    "_id": {
-      "$oid": "63976d3b3a596d924d500170"
-    },
     "MaMH": "SP001",
     "TenMH": "Dầu ăn",
     "DonVi": "DVT03",
@@ -10,9 +7,6 @@
     "SoLuong": 210
   },
   {
-    "_id": {
-      "$oid": "63976d3b3a596d924d500171"
-    },
     "MaMH": "SP002",
     "TenMH": "Xà phòng",
     "DonVi": "DVT05",
@@ -20,9 +14,6 @@
     "SoLuong": 300
   },
   {
-    "_id": {
-      "$oid": "63976d3b3a596d924d500174"
-    },
     "MaMH": "SP005",
     "TenMH": "Bánh ngọt",
     "DonVi": "DVT01",
@@ -30,9 +21,6 @@
     "SoLuong": 3
   },
   {
-    "_id": {
-      "$oid": "63976d3b3a596d924d500175"
-    },
     "MaMH": "SP006",
     "TenMH": "Bia tiger",
     "DonVi": "DVT01",
@@ -40,9 +28,6 @@
     "SoLuong": 84
   },
   {
-    "_id": {
-      "$oid": "63976d3b3a596d924d500176"
-    },
     "MaMH": "SP007",
     "TenMH": "Bia sài gòn",
     "DonVi": "DVT01",
@@ -50,9 +35,6 @@
     "SoLuong": 28
   },
   {
-    "_id": {
-      "$oid": "63976d3b3a596d924d500177"
-    },
     "MaMH": "SP008",
     "TenMH": "Nước suối",
     "DonVi": "DVT01",
@@ -60,9 +42,6 @@
     "SoLuong": 93
   },
   {
-    "_id": {
-      "$oid": "63976d3b3a596d924d50017b"
-    },
     "MaMH": "SP012",
     "TenMH": "Sữa ông thọ",
     "DonVi": "DVT02",
