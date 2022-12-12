@@ -1,8 +1,5 @@
 [
   {
-    "_id": {
-      "$oid": "63976d503a596d924d50017e"
-    },
     "MaNV": "AD",
     "TenHienThi": "Văn Tân",
     "GioiTinh": "Nam",
@@ -10,9 +7,6 @@
     "SDT": "0382753698"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d50017f"
-    },
     "MaNV": "NV01",
     "TenHienThi": "Văn Trí",
     "GioiTinh": "Nam",
@@ -20,9 +14,6 @@
     "SDT": "0965698485"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500180"
-    },
     "MaNV": "NV02",
     "TenHienThi": "Công Chí",
     "GioiTinh": "Nam",
@@ -30,9 +21,6 @@
     "SDT": "0925698485"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500181"
-    },
     "MaNV": "NV03",
     "TenHienThi": "Trương Như",
     "GioiTinh": "Nữ",
@@ -40,9 +28,6 @@
     "SDT": "0985698485"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500182"
-    },
     "MaNV": "NV04",
     "TenHienThi": "Hoàng Hải",
     "GioiTinh": "Nam",
@@ -50,9 +35,6 @@
     "SDT": "0925698485"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500183"
-    },
     "MaNV": "NV05",
     "TenHienThi": "Hoài Thương",
     "GioiTinh": "Nữ",
@@ -60,9 +42,6 @@
     "SDT": "0925698485"
   },
   {
-    "_id": {
-      "$oid": "63976d503a596d924d500184"
-    },
     "MaNV": "NV06",
     "TenHienThi": "Tường Vy",
     "GioiTinh": "Nữ",
