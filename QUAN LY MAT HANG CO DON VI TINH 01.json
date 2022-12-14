@@ -1,34 +1,22 @@
 [{
-  "_id": {
-    "$oid": "63976d3b3a596d924d500172"
-  },
   "MaMH": "SP004",
   "TenMH": "Mì tôm",
   "DonVi": "DVT01",
   "GiaBan": 15000,
   "SoLuong": 82
 },{
-  "_id": {
-    "$oid": "6398a98f85167c5b256a6630"
-  },
   "MaMH": "SP005",
   "TenMH": "Bánh ngọt",
   "DonVi": "DVT01",
   "GiaBan": 200000,
   "SoLuong": 3
 },{
-  "_id": {
-    "$oid": "6398a9a785167c5b256a6631"
-  },
   "MaMH": "SP006",
   "TenMH": "Bia tiger",
   "DonVi": "DVT01",
   "GiaBan": 25000,
   "SoLuong": 84
 },{
-  "_id": {
-    "$oid": "6398a9b985167c5b256a6632"
-  },
   "MaMH": "SP007",
   "TenMH": "Bia sài gòn",
   "DonVi": "DVT01",
