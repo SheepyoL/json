@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "63976d3b3a596d924d500172"
+  },
+  "MaMH": "SP004",
+  "DonVi": "DVT01",
+  "SoLuong": 133
+},{
+  "_id": {
+    "$oid": "6398ab1c85167c5b256a664d"
+  },
+  "MaMH": "SP005",
+  "DonVi": "DVT01",
+  "SoLuong": 3
+},{
+  "_id": {
+    "$oid": "6398ab2685167c5b256a664e"
+  },
+  "MaMH": "SP006",
+  "DonVi": "DVT01",
+  "SoLuong": 84
+},{
+  "_id": {
+    "$oid": "6398ab2e85167c5b256a664f"
+  },
+  "MaMH": "SP007",
+  "DonVi": "DVT01",
+  "SoLuong": 28
+},{
+  "_id": {
+    "$oid": "6398ab3685167c5b256a6650"
+  },
+  "MaMH": "SP022",
+  "DonVi": "DVT01",
+  "SoLuong": 600
+}]
